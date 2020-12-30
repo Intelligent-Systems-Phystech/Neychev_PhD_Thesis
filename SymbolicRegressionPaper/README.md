@@ -2,4 +2,4 @@
 R.G. Neychev,  I.A. Shibaev, V.V. Strijov
 
 Run experiments in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Systems-Phystech/Neychev_PhD_Thesis/main/SymbolicRegressionPaper/code/experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Systems-Phystech/Neychev_PhD_Thesis/blob/main/SymbolicRegressionPaper/code/experiments.ipynb)
